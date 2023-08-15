@@ -22,4 +22,8 @@ Here are some ideas to get you started:
  
 - Reach me at : gumastepriti1@gmail.com / pgumaste@ufl.edu
 
+
+![](https://raw.githubusercontent.com/pritigumaste/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!--![](https://raw.githubusercontent.com/pritigumaste/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
+
 ## ~ Crunching _data_ , Crafting _code_ ~
