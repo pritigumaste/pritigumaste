@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Reach me at : gumastepriti1@gmail.com / pgumaste@ufl.edu
 
 
-![](https://raw.githubusercontent.com/pritigumaste/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?pritigumaste=jasongaylord&count_private=true&theme=tokyonight&showicons=true)](
 <!--![](https://raw.githubusercontent.com/pritigumaste/github-stats/master/generated/overview.svg#gh-light-mode-only) -->
 
 ## ~ Crunching _data_ , Crafting _code_ ~
