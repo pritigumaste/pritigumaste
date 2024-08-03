@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ***About Me***
 - Computer Science graduate student at University of Florida. 🎓  
-- Seeking Full Time SDE/SWE opportunities. 
+- Seeking Full Time Software Developer/Full Stack/Analyst opportunities. 
 - Work Experience 💻
   - Software Engineer Intern | American Express
   - Graduate Student Assistant | University of Florida
