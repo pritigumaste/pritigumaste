@@ -8,19 +8,21 @@ Here are some ideas to get you started:
 
 ***About Me***
 - Computer Science graduate student at University of Florida. 🎓  
-- Seeking Full Time SDE/SWE opportunities starting May 2024. 
+- Seeking Full Time SDE/SWE opportunities. 
 - Work Experience 💻
+  - Software Engineer Intern | American Express
   - Graduate Student Assistant | University of Florida
   - Software Engineer | Persistent Systems                  
   - Software Engineer Intern | Persistent Systems 
 
 - Skills :
-  - Programming Languages:	Python, Java, C++, HTML, CSS, JavaScript, Bash.
-  - Databases / Frameworks:	MySQL, ElasticSearch, Amazon RDS, DynamoDB, Spring Boot, Flask, .NET.
-  - Cloud / Web Technologies:	AWS Lambda, API Gateway, React, RESTful APIs, GraphQL.
-  - Software / Tools:	Git, CI/CD, Linux, DevOps, Docker, Spring Tool Suite, Junit, Postman, IBM RDS, DOORS.
+  - Programming Languages:	Python, Java, JavaScript, C++, HTML/CSS.
+  - Databases:	MySQL, Postgres, NoSQL, MongDB, IBM DB2, Oracle. 
+  - Frameworks: Sprint Boot, Flask, Maven .NET, React JS, JUnit, Selenium, Mockito, RESTful APIs.
+  - Cloud: AWS (EC2, Lambda, IAM, API Gateway, S3, DynamoDB), Azure.
+  - Tools: Docker, Kubernetes, Jenkins, Kafka, GitHub, Linux, Elastic Search, DevOps, IntelliJ, Visual Studio, Postman.
  
-- Reach me at : gumastepriti1@gmail.com / pgumaste@ufl.edu
+- Reach me at : gumastepriti10@gmail.com / pgumaste@ufl.edu
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pritigumaste&count_private=true&theme=white&showicons=true)]()
