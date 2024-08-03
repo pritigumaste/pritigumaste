@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - Software Engineer Intern | Persistent Systems 
 
 - Skills :
-  - Programming Languages:	Python, Java, JavaScript, C++, HTML/CSS.
+  - Languages:	Java, Python, C++/C, JavaScript, Shell, GraphQL, HTML/CSS, XML, JSON.
   - Databases:	MySQL, Postgres, NoSQL, MongDB, IBM DB2, Oracle. 
   - Frameworks: Sprint Boot, Flask, Maven .NET, React JS, JUnit, Selenium, Mockito, RESTful APIs.
   - Cloud: AWS (EC2, Lambda, IAM, API Gateway, S3, DynamoDB), Azure.
